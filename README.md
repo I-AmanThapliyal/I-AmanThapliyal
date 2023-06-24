@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @I-AmanThapliyal
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML,CSS,BOOTSTRAP,JAVASCRIPT
-- 💞️ I’m looking to collaborate on front end projects
+- 🌱 I’ve made some back-end projects.
+- 💞️ I’m looking to collaborate on front-end and back-end projects.
 - 📫 You can reach me - amanth20@gmail.com
 
 <!---
